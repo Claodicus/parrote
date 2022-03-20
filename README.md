@@ -24,7 +24,9 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Claodicus/parrote/blob/main/parrote-demo2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+*Note that this gif only displays the user stories for part two. All part one user stories are shown in the second gif on this document*
 
 # Twitter - Part I
 
